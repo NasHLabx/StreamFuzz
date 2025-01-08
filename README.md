@@ -23,13 +23,10 @@ aiohttp
    git clone https://github.com/NasHLabx/StreamFuzz.git
    cd StreamFuzz
    pip install -r requirements.txt
-
- ## Usage  
-```bash
- python stream.py 
+   python stream.py 
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details
+This project is licensed under the MIT License. See the **LICENSE** file for details
 
  ## Author
 Mr. Goodluck Nasharmy(NasHLabx).
