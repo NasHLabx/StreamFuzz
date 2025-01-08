@@ -12,6 +12,9 @@ StreamFuzz is a Python-based fuzzing tool designed to discover hidden endpoints 
 - **Common Paths**: Auto-detection of commonly used paths (e.g., `/admin`, `/login`).
 
 ---
+## Requirements
+Python
+aiohttp
 
 ## Installation
 
@@ -23,4 +26,10 @@ StreamFuzz is a Python-based fuzzing tool designed to discover hidden endpoints 
 
  ## Usage  
 ```bash
- python stream.py
+ python stream.py 
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details
+
+ ## Author
+Mr. Goodluck Nasharmy(NasHLabx).
