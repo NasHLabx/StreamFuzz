@@ -14,6 +14,7 @@ StreamFuzz is a Python-based fuzzing tool designed to discover hidden endpoints 
 ---
 ## Requirements
 Python
+
 aiohttp
 
 ## Installation
