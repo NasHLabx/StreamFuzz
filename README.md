@@ -19,3 +19,8 @@ StreamFuzz is a Python-based fuzzing tool designed to discover hidden endpoints 
    ```bash
    git clone https://github.com/NasHLabx/StreamFuzz.git
    cd StreamFuzz
+   pip install -r requirements.txt
+
+ ## Usage  
+```bash
+ python stream.py
